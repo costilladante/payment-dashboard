@@ -1,6 +1,80 @@
 import type { Transaction } from '@types'
 
 export const mockTransactions: Transaction[] = [
+  // 2025 Transactions
+  {
+    id: 'TRX-041',
+    date: '2025-04-30',
+    description: 'Annual Software License Renewal',
+    amount: -299.99,
+  },
+  {
+    id: 'TRX-042',
+    date: '2025-04-15',
+    description: 'Salary Deposit',
+    amount: 3800.0,
+  },
+  {
+    id: 'TRX-043',
+    date: '2025-04-01',
+    description: 'April Fools Day Team Event',
+    amount: -200.0,
+  },
+  {
+    id: 'TRX-044',
+    date: '2025-03-31',
+    description: 'Q1 Investment Returns',
+    amount: 1250.0,
+  },
+  {
+    id: 'TRX-045',
+    date: '2025-03-15',
+    description: 'Salary Deposit',
+    amount: 3800.0,
+  },
+  {
+    id: 'TRX-046',
+    date: '2025-03-08',
+    description: "International Women's Day Event",
+    amount: -75.0,
+  },
+  {
+    id: 'TRX-047',
+    date: '2025-02-28',
+    description: 'Leap Year Special Bonus',
+    amount: 500.0,
+  },
+  {
+    id: 'TRX-048',
+    date: '2025-02-15',
+    description: 'Salary Deposit',
+    amount: 3800.0,
+  },
+  {
+    id: 'TRX-049',
+    date: '2025-02-14',
+    description: "Valentine's Day Dinner",
+    amount: -150.0,
+  },
+  {
+    id: 'TRX-050',
+    date: '2025-01-31',
+    description: 'New Year Resolution - Gym Equipment',
+    amount: -450.0,
+  },
+  {
+    id: 'TRX-051',
+    date: '2025-01-15',
+    description: 'Salary Deposit',
+    amount: 3800.0,
+  },
+  {
+    id: 'TRX-052',
+    date: '2025-01-01',
+    description: "New Year's Eve Party",
+    amount: -300.0,
+  },
+  // 2024 Transactions
   {
     id: 'TRX-001',
     date: '2024-03-15',
@@ -120,5 +194,126 @@ export const mockTransactions: Transaction[] = [
     date: '2024-02-25',
     description: 'Side Project Payment',
     amount: 1200.0,
+  },
+  // 2023 Transactions
+  {
+    id: 'TRX-021',
+    date: '2023-12-15',
+    description: 'Year-end Bonus',
+    amount: 5000.0,
+  },
+  {
+    id: 'TRX-022',
+    date: '2023-12-10',
+    description: 'Christmas Shopping',
+    amount: -450.0,
+  },
+  {
+    id: 'TRX-023',
+    date: '2023-11-30',
+    description: 'Black Friday Deals',
+    amount: -299.99,
+  },
+  {
+    id: 'TRX-024',
+    date: '2023-11-15',
+    description: 'Salary Deposit',
+    amount: 3500.0,
+  },
+  {
+    id: 'TRX-025',
+    date: '2023-10-31',
+    description: 'Halloween Party Supplies',
+    amount: -75.0,
+  },
+  {
+    id: 'TRX-026',
+    date: '2023-10-15',
+    description: 'Freelance Project - Mobile App',
+    amount: 2500.0,
+  },
+  {
+    id: 'TRX-027',
+    date: '2023-09-30',
+    description: 'Vacation - Hotel Booking',
+    amount: -800.0,
+  },
+  {
+    id: 'TRX-028',
+    date: '2023-09-15',
+    description: 'Salary Deposit',
+    amount: 3500.0,
+  },
+  {
+    id: 'TRX-029',
+    date: '2023-08-31',
+    description: 'New Laptop Purchase',
+    amount: -1299.99,
+  },
+  {
+    id: 'TRX-030',
+    date: '2023-08-15',
+    description: 'Consulting Work',
+    amount: 1800.0,
+  },
+  {
+    id: 'TRX-031',
+    date: '2023-07-31',
+    description: 'Summer Concert Tickets',
+    amount: -150.0,
+  },
+  {
+    id: 'TRX-032',
+    date: '2023-07-15',
+    description: 'Salary Deposit',
+    amount: 3500.0,
+  },
+  {
+    id: 'TRX-033',
+    date: '2023-06-30',
+    description: 'Car Maintenance',
+    amount: -350.0,
+  },
+  {
+    id: 'TRX-034',
+    date: '2023-06-15',
+    description: 'Side Project Payment',
+    amount: 1200.0,
+  },
+  {
+    id: 'TRX-035',
+    date: '2023-05-31',
+    description: 'Garden Supplies',
+    amount: -120.0,
+  },
+  {
+    id: 'TRX-036',
+    date: '2023-05-15',
+    description: 'Salary Deposit',
+    amount: 3500.0,
+  },
+  {
+    id: 'TRX-037',
+    date: '2023-04-30',
+    description: 'Tax Payment',
+    amount: -1200.0,
+  },
+  {
+    id: 'TRX-038',
+    date: '2023-04-15',
+    description: 'Freelance Web Development',
+    amount: 2000.0,
+  },
+  {
+    id: 'TRX-039',
+    date: '2023-03-31',
+    description: 'Spring Break Trip',
+    amount: -600.0,
+  },
+  {
+    id: 'TRX-040',
+    date: '2023-03-15',
+    description: 'Salary Deposit',
+    amount: 3500.0,
   },
 ]
