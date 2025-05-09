@@ -1,4 +1,3 @@
-import App from './App'
+import TransactionsTable from './TransactionsTable/TransactionsTable'
 
-export { App }
-
+export { TransactionsTable }

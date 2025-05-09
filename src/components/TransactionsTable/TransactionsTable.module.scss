@@ -1,0 +1,12 @@
+.table{
+    &-filter-dropdown{
+        &-container{
+            padding: 8px;
+        }
+        &-input{
+            width: 200px;
+            margin-bottom: 8px;
+            display: block;
+        }
+    }
+}
